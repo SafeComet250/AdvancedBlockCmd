@@ -1,0 +1,5 @@
+name: SimpleExercise
+version: 1.0.0
+main: CometS\SimpleExercise\main
+api: 4.0.0
+author: CometS
